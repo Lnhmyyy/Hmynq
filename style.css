@@ -1,14 +1,14 @@
 h1 {
-  corlor: red;
+  color: red;
 }
 
 .tieude {
-  corlor: tomato;
+  color: tomato;
   font-weight: bold;
   font-size: 20pt;
 }
 .noidung {
-  corlor: black;
+  color: black;
   font-style: normal;
   font-size: 14pt;
 }
