@@ -1,5 +1,32 @@
+.container {
+   display: flex;
+   flex-direction; colum;
+   heigh: 100vh
+}
+.header {
+   flex:20%
+   background color:light grey
+}
+.menu{
+  flex: 5%
+  background-color: darkgrey
+}
+.content{
+  flex: 20%
+  background-color: red
+}
+.footer{
+  flex: 15%
+  background-color: pink
+}
+
+
+
+
 h1 {
+  margin: 12px;
   color: red;
+  text-align: center;
 }
 
 .tieude {
