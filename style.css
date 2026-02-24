@@ -1,7 +1,7 @@
 .container {
    display: flex;
    flex-direction; colum;
-   heigh: 100vh
+   height: 100vh
 }
 .header {
    flex:20%
