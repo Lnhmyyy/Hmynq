@@ -1,55 +1,54 @@
-.container {
-   display: flex;
-   flex-direction; column;
-   height: 100vh;
+.container{
+  display: flex;
+  flex-direction: column;
+  height: 100vh;
 }
-.header {
-   flex:25%;
-   background-color:lightgrey;
+.header{
+  flex: 15%
+  background-color: lightgray;
+  
+
 }
 .menu{
-  flex: 25%;
-  background-color: darkgrey;
-  display: flex;
-  align-items: center;
+  flex:5%
+  background-color: darkgray;
+
 }
-.menu a{
-   padding: 15px 20px;
-   color: pink;
-}
-.menu hover{
-   background-color: white;
-   color: black;
-}
-   
 .content{
-  flex: 25%;
-  background-color: red;
-}
-.content inframe{
-   flex: 1;
-   border: none;
-   width: 100%;
-   height: 100%;
+  flex:70%
+  background-color: white;
+
 }
 .footer{
-  flex: 25%;
-  background-color: pink;
+  flex: 70%
+  background-color: lightgray;
+
+}
+.content iframe{
+flex: 1;
+width: 100%;
+height: 100%;
+border:0;
 }
 
-h1 {
-  margin: 12px;
+h1{
   color: red;
-  text-align: center;
+}
+.f1{
+  color: red;
+  margin-top:18pt;
+  margin-top: 12pt;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Arial;
+}
+.f2 {
+    color: black;
+  margin-top: 6pt;
+  margin-bottom: 6pt;
+  font-size: 15px;
+  font-style: normal;
+  font-family: Arial;
 }
 
-.tieude {
-  color: tomato;
-  font-weight: bold;
-  font-size: 20pt;
-}
-.noidung {
-  color: black;
-  font-style: normal;
-  font-size: 14pt;
-}
+
