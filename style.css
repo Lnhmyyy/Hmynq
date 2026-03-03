@@ -5,24 +5,24 @@
 }
 .header{
     flex: 20%;
-    background-color: lightgreen ;
+    background-color: red ;
     background: url("images/logoNQ.png") center/100% 100% ;
 }
 .menu{
     flex:5%;
-    background-color: lightgreen ;
+    background-color: red ;
 }
 .menu a{
     padding:15px 20px ;
-    color : green ;
+    color : red ;
 }
 .menu hover{
-    background-color: lightgreen ;
+    background-color: red ;
     color : black ;
 }
 .content{
     flex: 70%;
-    background-color: lightgreen ;
+    background-color: red ;
 }
 .content iframe{
     flex:1;
@@ -32,7 +32,7 @@
 }
 .footer{
     flex: 5%;
-    background-color: lightgreen ;
+    background-color: red ;
 }
 
  
