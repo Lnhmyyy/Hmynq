@@ -11,7 +11,7 @@
 }
 .menu{
     flex:5%;
-    background-color: lightgrey ;
+    background-color: darktgrey ;
 }
 .menu a{
     padding:15px 20px ;
@@ -23,7 +23,7 @@
 }
 .content{
     flex: 70%;
-    background-color: lightgrey ;
+    background-color: white ;
 }
 .content iframe{
     flex:1;
