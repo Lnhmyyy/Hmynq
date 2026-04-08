@@ -5,7 +5,7 @@
 }
 .header{
     flex: 20%;
-    background-color: lightgrey ;
+    background-color: white ;
     background: url("images/logoNQ.png") center/100% 100% ;
     aspect-ratio: 6/1;
 }
@@ -18,12 +18,12 @@
     color : red ;
 }
 .menu hover{
-    background-color: lightgrey ;
+    background-color: white ;
     color : black ;
 }
 .content{
     flex: 70%;
-    background-color: lightgrey ;
+    background-color: white ;
 }
 .content iframe{
     flex:1;
@@ -33,7 +33,7 @@
 }
 .footer{
     flex: 5%;
-    background-color: lightgrey ;
+    background-color: white ;
 }
 
  
